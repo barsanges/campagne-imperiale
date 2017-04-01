@@ -1,0 +1,110 @@
+\documentclass{scrartcl}
+\usepackage{fontspec,xunicode,xltxtra,graphicx}
+\usepackage{textcomp,polyglossia,booktabs,multirow,array}
+\usepackage[french=guillemets*]{csquotes}
+\usepackage[xetex]{hyperref}
+
+% POLICE & FONTES
+
+\defaultfontfeatures{Mapping=tex-text, Numbers=OldStyle} %Normal
+\setromanfont{Linux Libertine O}
+\setsansfont{Linux Libertine O}
+\setdefaultlanguage{french}
+\MakeOuterQuote{"} 
+\frenchspacing
+
+% NOUVELLES FONCTIONS
+  
+\newcommand{\up}[1]{{\addfontfeature{VerticalPosition=Superior} #1}}
+
+\renewcommand{\labelitemi}{--}
+
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\newcolumntype{X}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% HYPERREF
+
+\hypersetup{
+		colorlinks=true,
+		linkcolor=black,
+		citecolor=black,
+		urlcolor=blue,
+		pdftitle={Karl von Schwangau - Caractéristiques},
+		pdfauthor={Arnaud de Latour},
+		pdfsubject={Warhammer, jeu de rôle},
+		pdfstartview=FitH
+}
+
+% TITRE ET PAGE DE GARDE
+
+\title{\vspace{-1.4cm}\Large Karl von Schwangau}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\thispagestyle{empty}
+\vspace{-2.4cm}
+
+\newlength{\arrlenZ}
+\setlength{\arrlenZ}{0.475\linewidth}
+
+\section*{Profil}
+
+\begin{tabular}{X{\arrlenZ} X{\arrlenZ}}
+\textbf{Carrière :} Sergent mercenaire & \\
+\textbf{Carrières passées :} {\'E}cuyer & \\
+\end{tabular}
+
+\newlength{\arrlen}
+\setlength{\arrlen}{0.0425\linewidth}
+\begin{tabular}{M{\arrlen}M{\arrlen}M{\arrlen} M{\arrlen}M{\arrlen}M{\arrlen} M{\arrlen}M{\arrlen}M{\arrlen} M{\arrlen}M{\arrlen}M{\arrlen} M{\arrlen}M{\arrlen}}
+\toprule
+M & CC & CT & F & E & B & I & A & Dex & Cd & Int & Cl & FM & Soc \\
+4 & 39 & 34 & 3 & 2 & 7 & 36 & 1 & 23 & 28 & 25 & 34 & 28 & 35 \\
+& +20\up{**} & +20\up{**} & +1\up{*} & +1\up{*} & +4\up{**} & +20\up{*} & +1\up{*} & +10 & +10\up{*} & +10\up{*} & +10 & +10 & +10\up{*} \\
+4 & 59 & 54 & 4 & 3 & 9 & 46 & 2 & 23 & 38 & 35 & 34 & 28 & 45 \\
+\bottomrule
+\end{tabular}
+
+\section*{Compétences}
+
+\newlength{\arrlenT}
+\setlength{\arrlenT}{0.27\linewidth}
+\begin{tabular}{cX{\arrlenT} cX{\arrlenT} cX{\arrlenT}}
+$\bullet$ & Reikspiel & $\bullet$ & Navigation & $\bullet$ & \\
+$\bullet$ & Héraldique & $\bullet$ & Coups puissants & $\bullet$ & \\
+$\bullet$ & {\'E}tiquette & $\bullet$ & Esquive & $\bullet$ & \\
+$\bullet$ & Chant & $\bullet$ & \emph{Coups assommants} & $\bullet$ & \\
+$\bullet$ & Fauconnerie & $\bullet$ & \emph{Endurance à l'alcool} & $\bullet$ & \\
+$\bullet$ & Dressage & $\bullet$ & \emph{Jeu} & $\bullet$ & \\
+$\bullet$ & {\'E}quitation & $\bullet$ & \emph{Jargon des batailles} & $\bullet$ & \\
+$\bullet$ & Soin des animaux & $\bullet$ & \emph{Bagarre} & $\bullet$ & \\
+\end{tabular}
+
+\section*{{\'E}tat général}
+
+\begin{tabular}{X{\arrlenZ} X{\arrlenZ}}
+\textbf{Blessures :} 1 & \textbf{Points de destin :} 5 \\
+\textbf{Points de folie :} 3 & \textbf{Points d'expérience :} 0 \\
+\end{tabular}
+
+\section*{Dotations}
+
+\begin{tabular}{cX{\arrlenZ} cX{\arrlenZ}}
+\multicolumn{4}{l}{\textbf{Finances :} 169 couronnes et 19 pistoles} \\
+\multicolumn{4}{l}{\textbf{Possessions :}} \\
+$\bullet$ & Tenue de voyage & $\bullet$ & \\
+$\bullet$ & Tenue de cuir adéquate & $\bullet$ & \\
+$\bullet$ & Pistolet familial & $\bullet$ & \\
+$\bullet$ & Corne à poudre & $\bullet$ & \\
+$\bullet$ & Épée & $\bullet$ & \\
+$\bullet$ & Dague & $\bullet$ & \\
+$\bullet$ & Cotte de mailles & $\bullet$ & \\
+$\bullet$ & Manteau & $\bullet$ & \\
+$\bullet$ & Cylindre pentagonal & $\bullet$ & \\
+$\bullet$ & & $\bullet$ & \\
+\end{tabular}
+
+\end{document}
