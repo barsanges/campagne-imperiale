@@ -1,2 +1,3 @@
-# campagne-imperiale
-Eléments pour la Campagne impériale
+# Campagne impériale
+
+Fiches de personnages et éléments pour la Campagne impériale.
