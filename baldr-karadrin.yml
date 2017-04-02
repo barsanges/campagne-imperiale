@@ -1,0 +1,53 @@
+nom: Baldr Karadrin
+carrière: Maître artisan (futur marchand)
+carrières_passées:
+  - Forgeron
+caractéristiques:
+  M: [3, 0, 3]
+  CC: [38, 10, 48]
+  CT: [18, 0, 18]
+  F: [4, 1, 5]
+  E: [5, 1, 6]
+  B: [7, 2, 9]
+  I: [19, 20, 10]
+  A: [1, 1, 2]
+  Dex: [26, 20, 46]
+  Cd: [51, 10, 51]
+  Int: [30, 0, 30]
+  Cl: [36, 10, 36]
+  FM: [48, 10, 58]
+  Soc: [18, 10, 18]
+compétences:
+  - Khazalide
+  - Reikspiel
+  - Pictographie (nains)
+  - Alphabétisation
+  - Vision nocturne (30~m)
+  - Résistance accrue
+  - Esquive
+  - Exploitation minière
+  - Métallurgie (+20~\%)
+  - Artisanat (métal)
+  - Empathie (chevaux)
+  - Artisanat (armurier)
+compétences_futures:
+  - Langage secret (guilde)
+  - Conn. des parchemins
+  - Sens de la magie
+blessures: 5
+destin: 3
+folie: 4
+xp: 20
+finances: 277 couronnes
+possessions:
+  - "Finances du groupe : 4~120 couronnes"
+  - Vêtement de cuir
+  - Cotte de mailles
+  - Casque
+  - Bouclier
+  - Barakûl
+  - Hache
+  - Enclume portative
+  - Matériel de forge
+  - Tonnelet de Bugman
+  - Insigne des 4 saisons

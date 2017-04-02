@@ -1,0 +1,55 @@
+nom: Heinrich Fälscher
+carrière: Navigateur
+carrières_passées:
+  - Étudiant
+  - Ingénieur impérial
+caractéristiques:
+  M: [4, 0, 4]
+  CC: [24, 10, 24]
+  CT: [30, 0, 30]
+  F: [4, 1, 4]
+  E: [3, 1, 3]
+  B: [5, 3, 6]
+  I: [30, 20, 50]
+  A: [1, 0 , 1]
+  Dex: [30, 10, 40]
+  Cd: [35, 20, 35]
+  Int: [35, 30, 55]
+  Cl: [39, 10, 39]
+  FM: [31, 20, 41]
+  Soc: [33, 10, 43]
+compétences:
+  - Reikspiel
+  - Alphabétisation
+  - Lang. secret (classique)
+  - Lang. secret (voleur)
+  - Baratin
+  - Chance
+  - Endurance à l'alcool
+  - Bagarre
+  - Métallurgie
+  - Explosifs
+  - Cartographie
+  - Potamologie
+  - Astronomie
+compétences_futures:
+  - Orientation
+blessures: 1
+destin: 4
+folie: 1
+xp: 50
+finances: 295 couronnes
+possessions:
+  - Dettes à Nuln et à Talabheim
+  - 2 magnifiques tenues de ville
+  - Tatouage au pied
+  - Tenue de femme
+  - Jeu de cartes marquées
+  - Carte dans un paquet en toile cirée
+  - Cotte de mailles
+  - Tromblon
+  - 3 épées
+  - 2 barres de fer rouillées
+  - Parchemin d'aura de résistance
+  - Parchemin de brouillard mystique
+  - Parchemin de débilité

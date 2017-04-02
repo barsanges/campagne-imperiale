@@ -1,0 +1,52 @@
+nom: Karl von Schwangau
+carrière: Sergent mercenaire
+carrières_passées:
+  - Écuyer
+caractéristiques:
+  M: [4, 0, 4]
+  CC: [39, 20, 59]
+  CT: [34, 20, 54]
+  F: [3, 1, 4]
+  E: [2, 1, 3]
+  B: [7, 4, 9]
+  I: [36, 20, 46]
+  A: [1, 1, 2]
+  Dex: [23, 10, 23]
+  Cd: [28, 10, 38]
+  Int: [25, 10, 35]
+  Cl: [34, 10, 34]
+  FM: [28, 10, 28]
+  Soc: [35, 10, 45]
+compétences:
+  - Reikspiel
+  - Navigation
+  - Héraldique
+  - Coups puissants
+  - Étiquette
+  - Esquive
+  - Chant
+  - Fauconnerie
+  - Dressage
+  - Équitation
+  - Soin des animaux
+compétences_futures:
+  - Coups assommants
+  - Endurance à l'alcool
+  - Jeu
+  - Jargon des batailles
+  - Bagarre
+blessures: 1
+destin: 5
+folie: 3
+xp: 0
+finances: 169 couronnes et 19 pistoles
+possessions:
+  - Tenue de voyage
+  - Tenue de cuir adéquate
+  - Pistolet familial
+  - Corne à poudre
+  - Épée
+  - Dague
+  - Cotte de mailles
+  - Manteau
+  - Cylindre pentagonal

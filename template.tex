@@ -1,0 +1,110 @@
+\documentclass{scrartcl}
+\usepackage{fontspec,xunicode,xltxtra,graphicx}
+\usepackage{textcomp,polyglossia,booktabs,multirow,array}
+\usepackage[french=guillemets*]{csquotes}
+\usepackage[xetex]{hyperref}
+
+% POLICE & FONTES
+
+\defaultfontfeatures{Mapping=tex-text, Numbers=OldStyle} %Normal
+\setromanfont{Linux Libertine O}
+\setsansfont{Linux Libertine O}
+\setdefaultlanguage{french}
+\MakeOuterQuote{"}
+\frenchspacing
+
+% NOUVELLES FONCTIONS
+
+\newcommand{\up}[1]{{\addfontfeature{VerticalPosition=Superior} #1}}
+
+\renewcommand{\labelitemi}{--}
+
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\newcolumntype{X}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% HYPERREF
+
+\hypersetup{
+		colorlinks=true,
+		linkcolor=black,
+		citecolor=black,
+		urlcolor=blue,
+		pdftitle={<#nom> - Caractéristiques},
+		pdfauthor={Arnaud de Latour},
+		pdfsubject={Warhammer, jeu de rôle},
+		pdfstartview=FitH
+}
+
+% TITRE ET PAGE DE GARDE
+
+\title{\vspace{-1.4cm}\Large <#nom>}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\thispagestyle{empty}
+\vspace{-2.4cm}
+
+\newlength{\arrlenZ}
+\setlength{\arrlenZ}{0.475\linewidth}
+
+\section*{Profil}
+
+\begin{tabular}{X{\arrlenZ} X{\arrlenZ}} % Pour être aligné sur les autres tableaux
+\multicolumn{2}{l}{\textbf{Carrière :} <#carrière>} \\
+\multicolumn{2}{l}{\textbf{Carrières passées :} <#carrières_passées>} \\
+\end{tabular}
+
+\newlength{\arrlen}
+\setlength{\arrlen}{0.0425\linewidth}
+\begin{tabular}{*{14}{M{\arrlen}}}
+\toprule
+M & CC & CT & F & E & B & I & A & Dex & Cd & Int & Cl & FM & Soc \\
+<#M0> & <#CC0> & <#CT0> & <#F0> & <#E0> & <#B0> & <#I0> & <#A0> & <#Dex0> & <#Cd0> & <#Int0> & <#Cl0> & <#FM0> & <#Soc0> \\
+<#M1> & <#CC1> & <#CT1> & <#F1> & <#E1> & <#B1> & <#I1> & <#A1> & <#Dex1> & <#Cd1> & <#Int1> & <#Cl1> & <#FM1> & <#Soc1> \\
+<#M2> & <#CC2> & <#CT2> & <#F2> & <#E2> & <#B2> & <#I2> & <#A2> & <#Dex2> & <#Cd2> & <#Int2> & <#Cl2> & <#FM2> & <#Soc2> \\
+\bottomrule
+\end{tabular}
+
+\section*{Compétences}
+
+\newlength{\arrlenT}
+\setlength{\arrlenT}{0.27\linewidth}
+\begin{tabular}{cX{\arrlenT} cX{\arrlenT} cX{\arrlenT}}
+$\bullet$ & <#compétence> & $\bullet$ & <#compétence> & $\bullet$ & <#compétence> \\
+$\bullet$ & <#compétence> & $\bullet$ & <#compétence> & $\bullet$ & <#compétence> \\
+$\bullet$ & <#compétence> & $\bullet$ & <#compétence> & $\bullet$ & <#compétence> \\
+$\bullet$ & <#compétence> & $\bullet$ & <#compétence> & $\bullet$ & <#compétence> \\
+$\bullet$ & <#compétence> & $\bullet$ & <#compétence> & $\bullet$ & <#compétence> \\
+$\bullet$ & <#compétence> & $\bullet$ & <#compétence> & $\bullet$ & <#compétence> \\
+$\bullet$ & <#compétence> & $\bullet$ & <#compétence> & $\bullet$ & <#compétence> \\
+$\bullet$ & <#compétence> & $\bullet$ & <#compétence> & $\bullet$ & <#compétence> \\
+\end{tabular}
+
+\section*{{\'E}tat général}
+
+\begin{tabular}{X{\arrlenZ} X{\arrlenZ}}
+\textbf{Blessures :} <#blessures> & \textbf{Points de destin :} <#destin> \\
+\textbf{Points de folie :} <#folie> & \textbf{Points d'expérience :} <#xp> \\
+\end{tabular}
+
+\section*{Dotations}
+
+\begin{tabular}{cX{\arrlenZ} cX{\arrlenZ}}
+\multicolumn{4}{l}{\textbf{Finances :} <#finances>} \\
+\multicolumn{4}{l}{\textbf{Possessions :}} \\
+$\bullet$ & <#possessions> & $\bullet$ & <#possessions> \\
+$\bullet$ & <#possessions> & $\bullet$ & <#possessions> \\
+$\bullet$ & <#possessions> & $\bullet$ & <#possessions> \\
+$\bullet$ & <#possessions> & $\bullet$ & <#possessions> \\
+$\bullet$ & <#possessions> & $\bullet$ & <#possessions> \\
+$\bullet$ & <#possessions> & $\bullet$ & <#possessions> \\
+$\bullet$ & <#possessions> & $\bullet$ & <#possessions> \\
+$\bullet$ & <#possessions> & $\bullet$ & <#possessions> \\
+$\bullet$ & <#possessions> & $\bullet$ & <#possessions> \\
+$\bullet$ & <#possessions> & $\bullet$ & <#possessions> \\
+\end{tabular}
+
+\end{document}

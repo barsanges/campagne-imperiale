@@ -1,0 +1,58 @@
+nom: Artanis des Hauts
+carrière: Sorcier niveau 2
+carrières_passées:
+  - Apprenti sorcier
+  - Sorcier niveau 1
+caractéristiques:
+  M: [5, 1, 5]
+  CC: [39, 10, 39]
+  CT: [36, 10, 36]
+  F: [3, 1, 3]
+  E: [2, 1, 2]
+  B: [4, 3, 5]
+  I: [67, 20, 77]
+  A: [1, 0, 1]
+  Dex: [38, 10, 48]
+  Cd: [32, 10, 32]
+  Int: [52, 20, 62]
+  Cl: [53, 10, 53]
+  FM: [42, 10, 52]
+  Soc: [42, 0, 42]
+compétences:
+  - Sindarin (sylvain)
+  - Magikane
+  - Reikspiel
+  - Alphabétisation
+  - Acuité visuelle
+  - Vision nocturne (30~m)
+  - Chant
+  - Danse
+  - Incantations
+  - Codex elfiques
+  - Vents de magie
+  - Conn. des plantes
+  - Camouflage rural
+  - Conn. des parchemins
+  - Méditation
+  - Magie niveau 1
+compétences_futures:
+  - Magie niveau 2
+  - Langage secret (dryade)
+blessures: 0
+destin: 1
+folie: 5
+xp: 50
+finances: 263 couronnes et 13 pistoles
+possessions:
+  - Tenue elfique
+  - Bâton de sorcier
+  - Baguette d'onyx (10 points de magie)
+  - Codex sylvain (niv. 1)
+  - Bâton de nécromancien
+  - Grimoire de nécromancien
+  - Grimoire de boule de feu
+  - Couteau de chasse
+  - Épée
+  - Étoffe
+  - Plante médicinale
+  - Pansement
