@@ -1,0 +1,46 @@
+nom: Brondol Snotson
+carrière: Imprimeur (scribe)
+carrières_passées: []
+caractéristiques:
+  M: [4, 0, 4]
+  CC: [46, 0, 46]
+  CT: [21, 0, 21]
+  F: [3, 0, 3]
+  E: [4, 0, 4]
+  B: [6, 1, 6]
+  I: [18, 10, 18]
+  A: [1, 0, 1]
+  Dex: [17, 0, 17]
+  Cd: [56, 10, 56]
+  Int: [37, 0, 37]
+  Cl: [28, 0, 28]
+  FM: [51, 10, 51]
+  Soc: [19, 10, 29]
+compétences:
+  - Reikspiel
+  - Khazalide
+  - Vision nocturne (30~m)
+  - Exploitation minière
+  - Métallurgie
+  - Acuité auditive
+  - Acuite visuelle
+  - Déplacement urbain
+  - Baratin
+  - Cryptographie
+  - Alphabétisation
+  - Lang. secret (classique)
+  - Magikane
+  - Sindarin
+  - Argot
+compétences_futures: []
+blessures: 0
+destin: 1
+folie: 0
+xp: 350
+finances: ""
+possessions:
+  - Vêtements de ville (un peu vieillis)
+  - Presse portative
+  - Cor de chasse
+  - Besace
+  - Épée
