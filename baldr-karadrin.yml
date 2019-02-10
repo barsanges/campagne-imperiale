@@ -14,9 +14,9 @@ caractéristiques:
   Dex: [26, 20, 46]
   Cd: [51, 10, 51]
   Int: [30, 0, 30]
-  Cl: [36, 10, 36]
+  Cl: [36, 10, 46]
   FM: [48, 10, 58]
-  Soc: [18, 10, 18]
+  Soc: [18, 10, 28]
 compétences:
   - Khazalide
   - Reikspiel
@@ -30,22 +30,22 @@ compétences:
   - Artisanat (métal)
   - Empathie (chevaux)
   - Artisanat (armurier)
-compétences_futures:
   - Langage secret (guilde)
-  - Conn. des parchemins
   - Sens de la magie
-blessures: 5
+compétences_futures:
+  - Conn. des parchemins
+blessures: 2
 destin: 3
 folie: 4
-xp: 110
-finances: 277 couronnes
+xp: ??
+finances: 276 couronnes et 19 pistoles
 possessions:
-  - "Finances du groupe : 3~820 couronnes"
+  - "Finances du groupe : 0 couronnes"
   - Vêtement de cuir
   - Cotte de mailles
   - Casque
   - Bouclier
-  - Barakûl
+  - Barakûl (pas d'armure)
   - Hache
   - Enclume portative
   - Matériel de forge
