@@ -7,15 +7,15 @@ caractéristiques:
   M: [4, 0, 4]
   CC: [24, 10, 34]
   CT: [30, 0, 30]
-  F: [4, 1, 4]
+  F: [4, 1, 5]
   E: [3, 1, 4]
-  B: [5, 3, 6]
+  B: [5, 3, 7]
   I: [30, 20, 50]
   A: [1, 0 , 1]
   Dex: [30, 10, 40]
   Cd: [35, 20, 35]
-  Int: [35, 30, 55]
-  Cl: [39, 10, 39]
+  Int: [35, 30, 65]
+  Cl: [39, 10, 49]
   FM: [31, 20, 41]
   Soc: [33, 10, 43]
 compétences:
@@ -37,7 +37,7 @@ compétences_futures:
 blessures: 1
 destin: 4
 folie: 2
-xp: 110
+xp: 70
 finances: 295 couronnes
 possessions:
   - Dettes à Nuln et à Talabheim
@@ -51,3 +51,8 @@ possessions:
   - 3 épées
   - 1 barre de fer rouillée
   - Parchemin de brouillard mystique
+  - 1 arquebuse
+  - 1 tabouret
+  - 1 chaîne avec une clef
+  - 1 collier en or (95 c)
+  - 1 bague en or (23 c)
