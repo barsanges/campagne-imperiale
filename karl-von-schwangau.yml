@@ -29,17 +29,17 @@ compétences:
   - Dressage
   - Équitation
   - Soin des animaux
-compétences_futures:
   - Coups assommants
   - Endurance à l'alcool
+compétences_futures:
   - Jeu
   - Jargon des batailles
   - Bagarre
-blessures: 7
+blessures: 0
 destin: 5
-folie: 4
-xp: 70
-finances: 169 couronnes et 19 pistoles
+folie: 5
+xp: 20
+finances: 168 couronnes
 possessions:
   - Tenue de voyage
   - Tenue de cuir adéquate
