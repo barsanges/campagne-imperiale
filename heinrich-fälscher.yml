@@ -9,14 +9,14 @@ caractéristiques:
   CT: [30, 0, 30]
   F: [4, 1, 5]
   E: [3, 1, 4]
-  B: [5, 3, 7]
+  B: [5, 3, 8]
   I: [30, 20, 50]
   A: [1, 0 , 1]
   Dex: [30, 10, 40]
   Cd: [35, 20, 35]
   Int: [35, 30, 65]
   Cl: [39, 10, 49]
-  FM: [31, 20, 41]
+  FM: [31, 20, 51]
   Soc: [33, 10, 43]
 compétences:
   - Reikspiel
@@ -34,11 +34,11 @@ compétences:
   - Astronomie
 compétences_futures:
   - Orientation
-blessures: 1
+blessures: 0
 destin: 4
-folie: 2
-xp: 70
-finances: 295 couronnes
+folie: 6
+xp: 20
+finances: 294 couronnes et 15 pistoles
 possessions:
   - Dettes à Nuln et à Talabheim
   - 2 magnifiques tenues de ville
