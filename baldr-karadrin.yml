@@ -37,16 +37,16 @@ compétences_futures: []
 blessures: 0
 destin: 3
 folie: 6
-xp: 70
-finances: 233 couronnes et 19 pistoles
+xp: 100
+finances: 85 couronnes, 14 pistoles et 6 deniers
 possessions:
   - "Finances du groupe : 0 couronnes"
   - Vêtement de cuir
-  - Cotte de mailles
-  - Casque
-  - Bouclier
-  - Barakûl (pas d'armure)
+  - Armure de plates naine (3 PA)
+  - Bouclier (1 PA)
+  - Barakûl (ignore les armures)
   - Hache
+  - Marteau de guerre de joute (+1 dégât, non létal)
   - Enclume portative
   - Matériel de forge
   - Tonnelet de Bugman
