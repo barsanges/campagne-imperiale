@@ -23,7 +23,7 @@ if __name__ == "__main__":
     if args.tex_fout is None:
         args.tex_fout = content['nom'] + ' - Caractéristiques.tex'
 
-    for key in ('nom', 'carrière', 'blessures', 'destin', 'folie', 'xp', 'finances'):
+    for key in ('nom', 'carrière', 'blessures', 'destin', 'folie', 'xp', 'finances', 'magie'):
         sheet = sheet.replace('<#%s>' % key, str(content[key]))
 
     sheet = sheet.replace('<#carrières_passées>', ', '.join(content['carrières_passées']))
