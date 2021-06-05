@@ -31,15 +31,15 @@ compétences:
   - Soin des animaux
   - Coups assommants
   - Endurance à l'alcool
-compétences_futures:
   - Jeu
-  - Jargon des batailles
   - Bagarre
+compétences_futures:
+  - Jargon des batailles
 blessures: 0
 destin: 5
 folie: 5
 magie: 0
-xp: 210
+xp: 10
 finances: 78 couronnes et 17 pistoles
 possessions:
   - Tenue de voyage
