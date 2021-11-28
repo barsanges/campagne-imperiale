@@ -40,7 +40,7 @@ destin: 5
 folie: 5
 magie: 0
 xp: 10
-finances: 78 couronnes et 17 pistoles
+finances: 278 couronnes et 17 pistoles
 possessions:
   - Tenue de voyage
   - Tenue de cuir adéquate
@@ -55,3 +55,4 @@ possessions:
   - Cylindre pentagonal
   - Potion de soins
   - Reçu pour l'armure et le marteau de Baldr
+  - 1 créance de 150 Co sur Reinhart von Kallmürz, chevalier panthère

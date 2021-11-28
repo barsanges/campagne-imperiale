@@ -39,7 +39,7 @@ destin: 4
 folie: 6
 magie: 0
 xp: 160
-finances: 286 couronnes, 7 pistoles et 6 deniers
+finances: 411 couronnes, 7 pistoles et 6 deniers
 possessions:
   - Dettes à Nuln et à Talabheim
   - 2 magnifiques tenues de ville
@@ -55,5 +55,6 @@ possessions:
   - 1 arquebuse
   - 1 tabouret
   - 1 chaîne avec une clef
-  - 1 collier en or (95 c)
-  - 1 bague en or (23 c)
+  - 1 collier en or (95 Co)
+  - 1 bague en or (23 Co)
+  - 1 créance de 75 Co sur Immanuel von Reisling, chevalier panthère
