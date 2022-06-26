@@ -1,23 +1,24 @@
 nom: Heinrich Fälscher
-carrière: Navigateur
+carrière: Templier
 carrières_passées:
   - Étudiant
   - Ingénieur impérial
+  - Navigateur
 caractéristiques:
   M: [4, 0, 4]
-  CC: [24, 10, 34]
-  CT: [30, 0, 30]
+  CC: [24, 30, 44]
+  CT: [30, 30, 30]
   F: [4, 1, 5]
-  E: [3, 1, 4]
-  B: [5, 3, 8]
-  I: [30, 20, 50]
-  A: [1, 0 , 1]
-  Dex: [30, 10, 40]
-  Cd: [35, 20, 35]
+  E: [3, 2, 4]
+  B: [5, 8, 8]
+  I: [30, 30, 50]
+  A: [1, 2 , 2]
+  Dex: [30, 20, 40]
+  Cd: [35, 20, 55]
   Int: [35, 30, 65]
-  Cl: [39, 10, 49]
+  Cl: [39, 20, 49]
   FM: [31, 20, 51]
-  Soc: [33, 10, 43]
+  Soc: [33, 20, 43]
 compétences:
   - Reikspiel
   - Alphabétisation
@@ -32,29 +33,27 @@ compétences:
   - Cartographie
   - Potamologie
   - Astronomie
-compétences_futures:
   - Orientation
+  - Equitation
+compétences_futures:
+  - Coups assommants
+  - Coups puissants
+  - Désarmement
+  - Esquive
+  - Jargon des batailles
+  - Lance de cavalerie
+  - "Pictographie : templiers"
 blessures: 0
 destin: 4
 folie: 6
 magie: 0
-xp: 660
-finances: 411 couronnes, 7 pistoles et 6 deniers
+xp: 60
+finances: 300 couronnes
 possessions:
-  - Dettes à Nuln et à Talabheim
-  - 2 magnifiques tenues de ville
+  - Destrier
+  - Fléau d'armes magique (+20 CC)
+  - Armure de plates (2 PA)
+  - Bouclier (1 PA)
   - Tatouage au pied
-  - Tenue de femme
-  - Jeu de cartes marquées
-  - Carte dans un paquet en toile cirée
-  - Cotte de mailles
   - Tromblon
-  - 3 épées
-  - 1 barre de fer rouillée
   - Parchemin de brouillard mystique
-  - 1 arquebuse
-  - 1 tabouret
-  - 1 chaîne avec une clef
-  - 1 collier en or (95 Co)
-  - 1 bague en or (23 Co)
-  - 1 créance de 75 Co sur Immanuel von Reisling, chevalier panthère

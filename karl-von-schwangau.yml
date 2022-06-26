@@ -1,22 +1,23 @@
 nom: Karl von Schwangau
-carrière: Sergent mercenaire
+carrière: Templier
 carrières_passées:
   - Écuyer
+  - Sergent mercenaire
 caractéristiques:
   M: [4, 0, 4]
-  CC: [39, 20, 59]
-  CT: [34, 20, 54]
+  CC: [39, 30, 69]
+  CT: [34, 30, 64]
   F: [3, 1, 4]
-  E: [2, 1, 3]
-  B: [7, 4, 11]
-  I: [36, 20, 56]
-  A: [1, 1, 2]
-  Dex: [23, 10, 33]
-  Cd: [28, 10, 38]
-  Int: [25, 10, 35]
-  Cl: [34, 10, 44]
-  FM: [28, 10, 38]
-  Soc: [35, 10, 45]
+  E: [2, 2, 4]
+  B: [7, 8, 11]
+  I: [36, 30, 66]
+  A: [1, 2, 3]
+  Dex: [23, 20, 33]
+  Cd: [28, 20, 38]
+  Int: [25, 20, 35]
+  Cl: [34, 20, 44]
+  FM: [28, 20, 38]
+  Soc: [35, 20, 55]
 compétences:
   - Reikspiel
   - Navigation
@@ -33,26 +34,24 @@ compétences:
   - Endurance à l'alcool
   - Jeu
   - Bagarre
-compétences_futures:
   - Jargon des batailles
+compétences_futures:
+  - Alphabétisation
+  - Désarmement
+  - Lance de cavalerie
+  - "Pictographie : templiers"
 blessures: 0
 destin: 5
 folie: 5
 magie: 0
-xp: 510
-finances: 278 couronnes et 17 pistoles
+xp: 10
+finances: 20 couronnes
 possessions:
-  - Tenue de voyage
-  - Tenue de cuir adéquate
-  - Pistolet familial
-  - Corne à poudre
-  - Épée
-  - Dague
-  - Pique de joute (+10 I, +10 pour toucher, +1 dégât, non létal)
+  - Armure de plates (2 PA)
   - Chemise de mailles naine fine (1 PA, se porte en-dessous du vêtement)
   - Bouclier magique (2 PA)
-  - Manteau
-  - Cylindre pentagonal
+  - Pistolet familial
+  - Épée
   - Potion de soins
-  - Reçu pour l'armure et le marteau de Baldr
-  - 1 créance de 150 Co sur Reinhart von Kallmürz, chevalier panthère
+  - Destrier
+  - Anneau de force (+2)

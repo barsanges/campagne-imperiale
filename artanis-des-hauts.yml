@@ -7,15 +7,15 @@ caractéristiques:
   M: [5, 1, 5]
   CC: [39, 10, 49]
   CT: [36, 10, 36]
-  F: [3, 1, 3]
+  F: [3, 1, 4]
   E: [2, 1, 3]
-  B: [4, 3, 6]
-  I: [67, 20, 77]
+  B: [4, 3, 7]
+  I: [67, 20, 87]
   A: [1, 0, 1]
   Dex: [38, 10, 48]
-  Cd: [32, 10, 32]
-  Int: [52, 20, 62]
-  Cl: [53, 10, 53]
+  Cd: [32, 10, 42]
+  Int: [52, 20, 72]
+  Cl: [53, 10, 63]
   FM: [42, 10, 52]
   Soc: [43, 0, 43]
 compétences:
@@ -42,18 +42,13 @@ blessures: 0
 destin: 1
 folie: 7
 magie: 28
-xp: 650
-finances: 276 couronnes, 9 pistoles et 6 deniers
+xp: 50
+finances: 300 couronnes
 possessions:
   - Tenue elfique
   - Bâton de sorcier
   - Baguette d'onyx (10 points de magie)
-  - Codex sylvain (niv. 1)
-  - Grimoire de boule de feu
-  - Couteau de chasse
+  - Anneau d'onyx (6 points de magie)
   - Épée
   - Étoffe
-  - Plante médicinale
   - Pansement
-  - Corde (30 m)
-  - Grimoire d'Etelka Herzen (MSLR, p. 30)

@@ -1,20 +1,21 @@
 nom: Baldr Karadrin
-carrière: Maître artisan (futur marchand)
+carrière: Capitaine des tunnels de Middenheim
 carrières_passées:
   - Forgeron
+  - Maître artisan
 caractéristiques:
   M: [3, 0, 3]
-  CC: [38, 10, 48]
+  CC: [38, 40, 58]
   CT: [18, 0, 18]
-  F: [4, 1, 5]
-  E: [5, 1, 6]
-  B: [7, 2, 9]
+  F: [4, 3, 6]
+  E: [5, 3, 8]
+  B: [7, 8, 9]
   I: [19, 20, 39]
-  A: [1, 1, 2]
+  A: [1, 2, 3]
   Dex: [26, 20, 46]
   Cd: [51, 10, 61]
   Int: [30, 0, 30]
-  Cl: [36, 10, 46]
+  Cl: [36, 30, 46]
   FM: [48, 10, 58]
   Soc: [18, 10, 28]
 compétences:
@@ -33,22 +34,23 @@ compétences:
   - Langage secret (guilde)
   - Sens de la magie
   - Conn. des parchemins
-compétences_futures: []
+  - Coup précis
+  - Esquive
+  - Armes à deux mains
+compétences_futures:
+  - Armes articulées
+  - Jargon des batailles
 blessures: 0
 destin: 3
 folie: 6
 magie: 0
-xp: 760
-finances: 284 couronnes, 11 pistoles et 5 deniers
+xp: 60
+finances: 1~000 couronnes
 possessions:
-  - "Finances du groupe : 0 couronnes"
-  - Vêtement de cuir
+  - Boutique à Middenheim
   - Armure de plates naine (3 PA)
   - Bouclier (1 PA)
+  - Rune de défense (2 PA)
   - Barakûl (ignore les armures)
-  - Hache
-  - Marteau de guerre de joute (+1 dégât, non létal)
-  - Enclume portative
-  - Matériel de forge
   - Tonnelet de Bugman
-  - Insigne des 4 saisons
+  - Crédit de 2~000 couronnes dans n'importe quelle banque de l'Empire
