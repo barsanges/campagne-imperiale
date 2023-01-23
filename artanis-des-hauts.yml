@@ -47,8 +47,8 @@ finances: 300 couronnes
 possessions:
   - Tenue elfique
   - Bâton de sorcier
-  - Baguette d'onyx (10 points de magie)
-  - Anneau d'onyx (6 points de magie)
+  - Baguette d'onyx (0/10 points de magie)
+  - Anneau d'onyx (2/6 points de magie)
   - Épée
   - Étoffe
   - Pansement
